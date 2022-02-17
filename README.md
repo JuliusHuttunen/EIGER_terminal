@@ -28,7 +28,7 @@ define 6 hi
 eval hellothere = hi
 ````
 
-### Output
+### Output:
 
 ````
 true
